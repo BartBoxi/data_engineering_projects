@@ -11,7 +11,7 @@ The first analysis looks at the total CO2 emissions for the entire world over th
 
 **Key Finding:** As the plot shows, there has been a significant and steady increase in global CO2 emissions since 1960.
 
-![Total World CO2 Emissions](world_co2_emissions.png)
+![Total World CO2 Emissions](country_comparison_plot.png)
 
 ## 2. Comparing Emissions of Key Countries
 
@@ -19,4 +19,4 @@ Next, the analysis zooms in on four specific countries: China, the United States
 
 **Key Finding:** [Describe your key finding here. For example: The data shows a dramatic increase in China's emissions post-2000, while emissions in the United States show a slight decline in later years.]
 
-![CO2 Emissions Comparison](country_comparison_plot.png)
+![CO2 Emissions Comparison](world_co2_emissions.png)
